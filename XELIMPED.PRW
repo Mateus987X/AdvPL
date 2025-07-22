@@ -1,4 +1,4 @@
-//Rotina responsável por encerrar o pedido de compra, zerando a quantidade de itens do pedido
+//Rotina responsável por encerrar o pedido de compra, zerando a quantidade de itens do pedido//
 #include "TOTVS.CH"
 User Function XELIMPED()
 
