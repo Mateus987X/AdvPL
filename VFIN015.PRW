@@ -1,6 +1,6 @@
 //Esta função automatiza o processo de baixa de notas de crédito (NCC) 
 //no sistema Protheus (TOTVS) quando há devoluções de mercadorias. Ela verifica e registra 
-//as NCCs vinculadas a notas fiscais de entrada.
+//as NCCs vinculadas a notas fiscais de entrada. //
 
 
 #include 'protheus.ch'
