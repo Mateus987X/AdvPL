@@ -4,7 +4,7 @@ Função de tratamento do cadastro de produtos (SB1) para replicação de dados na f
 - Realiza operações de inclusão, alteração e exclusão de produtos na filial 05 (TR01) com base nas ações na matriz
 - Sincroniza os dados complementares na tabela SB5 entre as filiais
 - Utiliza transação SQL para garantir a integridade dos dados
-- Trabalha em conjunto com o modelo MVC de produtos (ITEM)/*/
+- Trabalha em conjunto com o modelo MVC de produtos (ITEM)/*//
 
 
 
