@@ -2,7 +2,7 @@
 // LIST100.PRW
 // Programa para manutenção de preços - Lista 100
 // Preços estes que são a cotação do um determinado produto na data vigente, com intuito de precificar o custo
-// de cada produto internamente, em ordens de produção, etc.
+// de cada produto internamente, em ordens de produção, etc.//
 // ============================================================================
 // Autor: Mateus Pereira Barboza
 // Data: 11/07/2025
