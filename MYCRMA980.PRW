@@ -1,6 +1,6 @@
 //Este código é um ponto de entrada (PE) no sistema Protheus 
 //da TOTVS que customiza o comportamento do cadastro de 
-//clientes (tabela SA1), especificamente para operações na filial "05".
+//clientes (tabela SA1), especificamente para operações na filial "05". //
 
 
 #include "FWMVCDEF.CH"
